@@ -6,9 +6,9 @@ import java.util.Date;
 /**
  * Restful方式登陆token
  * 
- * @author 小威老师 xiaoweijiagou@163.com
+ * @author 曾凡生 2317216735@qq.com
  *
- *         2017年8月4日
+ *         2019年4月4日
  */
 
 public class Token implements Serializable {
